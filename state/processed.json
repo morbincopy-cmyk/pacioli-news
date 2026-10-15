@@ -107,6 +107,16 @@
       "channel": "Contabilidade Facilitada",
       "transcription": "manual",
       "at": "2026-10-15T11:21:58-03:00"
+    },
+    "878FJzbYPdM": {
+      "status": "published",
+      "title": "FIM DA ESCALA 6X1: PRAZOS, MUDANÇAS NA FOLHA E NAS ESCALAS",
+      "date": "2026-10-15",
+      "timestamp": 1792079205,
+      "url": "https://www.youtube.com/watch?v=878FJzbYPdM",
+      "channel": "Contabilidade Facilitada",
+      "transcription": "mlx-whisper",
+      "at": "2026-10-15T13:01:57-03:00"
     }
   },
   "pending": {}
