@@ -1,0 +1,47 @@
+{
+  "site_name": "Pacioli News",
+  "channel_name": "Contabilidade Facilitada",
+  "channel_url": "https://www.youtube.com/@contabilidadefacilitada/videos",
+  "timezone": "America/Sao_Paulo",
+  "schedule": {
+    "start_hour": 10,
+    "end_hour": 22
+  },
+  "detection": {
+    "playlist_end": 15,
+    "shorts_max_seconds": 180,
+    "max_metadata_failures": 5
+  },
+  "transcription": {
+    "order": [
+      "whisper",
+      "manual_subs",
+      "auto_subs"
+    ],
+    "whisper_model": "mlx-community/whisper-large-v3-turbo",
+    "whisper_language": "pt",
+    "manual_sub_langs": [
+      "pt-BR",
+      "pt"
+    ],
+    "auto_sub_langs": [
+      "pt-orig",
+      "pt"
+    ],
+    "min_words": 50
+  },
+  "summary": {
+    "chunk_chars": 80000,
+    "attempts": 2
+  },
+  "paths": {
+    "python": "/usr/bin/python3",
+    "yt_dlp": "/opt/homebrew/bin/yt-dlp",
+    "claude": "/Users/bernardoguttler/.local/bin/claude",
+    "git": "/usr/bin/git"
+  },
+  "publish": {
+    "git_remote": "origin",
+    "git_branch": "main"
+  }
+}

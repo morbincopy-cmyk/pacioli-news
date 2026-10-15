@@ -1,0 +1,7 @@
+# Temporários da transcrição e logs de execução
+work/
+logs/
+state/run.lock/
+*.tmp
+.DS_Store
+__pycache__/
