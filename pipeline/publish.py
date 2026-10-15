@@ -4,8 +4,9 @@ O post de cada dia é sempre reconstruído a partir de state/summaries/<id>.md e
 metadados em state/processed.json. Assim os vídeos ficam em ordem de publicação e
 um vídeo atrasado entra no post do dia certo.
 
-Uso isolado (publica o resumo já gerado em work/<id>.summary.md):
-    python3 pipeline/publish.py <video_id> [--no-git]
+Uso isolado:
+    python3 pipeline/publish.py <video_id> [--no-git]   # publica o resumo de work/<id>.summary.md
+    python3 pipeline/publish.py --rebuild [--no-git]    # reconstrói o site a partir de state/summaries
 """
 import html
 import re
@@ -103,13 +104,13 @@ def git(*args):
     return r.stdout
 
 
-def commit_and_push(changed_dates):
-    """Commit com 'novidades: AAAA-MM-DD (+N vídeo)' e push."""
+def commit_and_push(changed_dates=None, msg=None):
+    """Commit com 'novidades: AAAA-MM-DD (+N vídeo)' (ou `msg`) e push."""
     git("add", "-A", "site", "state")
     if not git("status", "--porcelain", "site", "state").strip():
         log("Nada novo para publicar no git")
         return
-    msg = "; ".join(f"novidades: {d} (+{n} vídeo{'s' if n > 1 else ''})" for d, n in sorted(changed_dates.items()))
+    msg = msg or "; ".join(f"novidades: {d} (+{n} vídeo{'s' if n > 1 else ''})" for d, n in sorted(changed_dates.items()))
     git("commit", "-m", msg)
     git("push", CONFIG["publish"]["git_remote"], CONFIG["publish"]["git_branch"])
     log(f"Publicado: {msg}")
@@ -130,9 +131,21 @@ def publish(state, items, use_git=True):
         commit_and_push(changed)
 
 
+def rebuild(state, use_git=True):
+    """Reconstrói todos os posts e o índice (ex.: depois de editar state/summaries à mão)."""
+    for date in sorted({v["date"] for v in published_videos(state)}):
+        build_day(date, state)
+    build_index(state)
+    if use_git:
+        commit_and_push(msg="novidades: posts reconstruídos")
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         sys.exit(__doc__)
+    if sys.argv[1] == "--rebuild":
+        rebuild(load_state() or empty_state(), use_git="--no-git" not in sys.argv)
+        sys.exit(0)
     from detect import fetch_meta, summarize_meta
     vid = sys.argv[1]
     info = summarize_meta(fetch_meta(vid))
