@@ -1,0 +1,41 @@
+## COMO FICA O ARQUIVO DA NF-E COM OS CAMPOS DE IBS E CBS DA REFORMA TRIBUTÁRIA
+
+**Em uma frase:** A Nota Técnica 2025.002 cria na NF-e, dentro de cada item, grupos próprios para o Imposto Seletivo e para o IBS/CBS, e o CST e o cClassTrib passam a definir como cada operação será tributada.
+
+### Principais pontos
+
+1. **Onde ficam os novos campos.** A nota técnica cria dois grupos novos: um para o IBS/CBS e outro para o Imposto Seletivo. Os dois ficam no grupo de tributos incidentes sobre o produto ou serviço. Por isso as informações são preenchidas item a item, junto com os tributos que já existem hoje (ICMS, IPI, PIS, COFINS e dados do Simples Nacional).
+
+2. **Grupo do Imposto Seletivo.** Fica separado do IBS/CBS e tem seus próprios campos: CST, cClassTrib, base de cálculo, alíquota e valor do imposto.
+
+3. **IBS e CBS compartilham a mesma estrutura.** Os dois tributos foram instituídos pela mesma lei e seguem as mesmas regras de cálculo e a mesma base. Por isso costumam ser chamados de "irmãos gêmeos". Na nota, há um único CST para os dois, que indica o tipo de tributação da operação: tributação normal, redução de alíquota, suspensão etc.
+
+4. **O que é o cClassTrib.** É um código novo, "filho" do CST, que detalha a tributação e aponta a base legal aplicada. Exemplo do vídeo: na venda de um produto da cesta básica com redução de 100%, o CST informa que há redução de alíquota, e o cClassTrib identifica que se trata especificamente da redução da cesta básica, já vinculada à sua base legal.
+
+5. **Comparação com o ICMS.** O cClassTrib funciona de forma parecida com o código de benefício fiscal que alguns estados já exigem na NF-e quando há benefício de ICMS. Esse código também serve para detalhar a base legal do benefício aplicado.
+
+6. **Planejamento antes da emissão.** Antes de emitir a nota, é preciso já saber qual CST e qual cClassTrib se aplicam a cada produto ou serviço. Eles são informados por item, na NF-e ou na NFC-e, conforme o caso.
+
+7. **Estrutura de cálculo do IBS/CBS.** O CST e o cClassTrib escolhidos determinam quais campos do grupo IBS/CBS ficam habilitados. Há uma base de cálculo única para os dois tributos. Abaixo dela vêm três subgrupos:
+   - **IBS UF**: parcela dos estados;
+   - **IBS Municipal**: parcela dos municípios;
+   - **CBS**: parcela da União.
+
+   Cada subgrupo tem campos de alíquota, crédito presumido, redução, desoneração e valor do imposto devido.
+
+### Detalhes que valem atenção
+
+- **Norma citada:** Nota Técnica 2025.002 da NF-e.
+- **Novos grupos no item da nota:** IBS/CBS e Imposto Seletivo, ambos dentro dos tributos incidentes sobre o produto ou serviço.
+- **Códigos novos:**
+  - CST do IBS/CBS (único para os dois tributos);
+  - cClassTrib do IBS/CBS, que detalha a base legal;
+  - CST e cClassTrib próprios do Imposto Seletivo.
+- **Exemplo prático:** item da cesta básica com redução de alíquota de 100%, identificado por um cClassTrib específico.
+- **Base de cálculo:** a mesma para IBS e CBS.
+- **Divisão do valor devido:** separada por estado (IBS UF), por município (IBS Municipal) e pela União (CBS).
+- **Recomendação:** definir o CST e o cClassTrib de cada produto ou serviço antes de começar a emitir as notas com os novos campos.
+
+### Para quem é útil
+
+Contadores, profissionais da área fiscal e responsáveis pelo cadastro de produtos ou pela parametrização de sistemas emissores de NF-e e NFC-e que precisam se adaptar aos campos de IBS, CBS e Imposto Seletivo da reforma tributária.
