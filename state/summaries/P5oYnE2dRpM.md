@@ -1,0 +1,45 @@
+## O QUE ACONTECE COM A REFORMA TRIBUTÁRIA DEPOIS DAS ELEIÇÕES 2026?
+
+**Em uma frase:** Independentemente de quem vencer a eleição presidencial, a reforma tributária já está aprovada e a CBS começa em 1º de janeiro de 2027; o que muda entre os candidatos é o rumo posterior, com Lula propondo manter tudo como está e Flávio Bolsonaro propondo revisar a reforma, não revogá-la.
+
+### Principais pontos
+
+1. **A reforma já está em vigor juridicamente.** Há uma emenda constitucional aprovada com as diretrizes da reforma e duas leis complementares publicadas que instituem o IBS e a CBS. Pela legislação atual, a CBS substitui o PIS e a COFINS a partir de 1º de janeiro de 2027. Para novos fatos geradores, esses dois tributos deixam de existir nessa data, seja qual for o resultado das eleições.
+
+2. **Alterar a reforma é difícil.** Mudar uma emenda constitucional exige aprovação em dois turnos na Câmara e no Senado, com pelo menos três quintos dos votos. Mudar uma lei complementar exige maioria absoluta dos membros de cada Casa. Além disso, o eleito toma posse em 5 de janeiro, quando a CBS já estará valendo. Por isso, não se deve esperar mudança imediata no início do novo governo.
+
+3. **Proposta de Lula: manter o calendário.** O plano de governo, disponível no site do TSE, destaca que a reforma foi aprovada na gestão atual e propõe:
+   - manter o cronograma sem alterações;
+   - garantir a isenção da cesta básica, já prevista na emenda constitucional e na lei complementar;
+   - garantir o cashback para a população de baixa renda;
+   - manter a não cumulatividade.
+
+4. **Proposta de Flávio Bolsonaro: revisar, não suspender.** Em declarações na mídia, o candidato já falou em suspender ou adiar a reforma. O plano de governo, porém, não menciona isso, até porque dependeria do Congresso. O que o plano traz é:
+   - **revisão e redimensionamento da reforma**, com o objetivo de reduzir a carga tributária;
+   - **retirada de benefícios** concedidos a segmentos específicos, negociados por lobbies no Congresso. O plano não diz quais segmentos seriam afetados. A apresentadora observa que o próprio candidato participou da aprovação de vários desses benefícios;
+   - **simplificação**, um dos pilares originais da reforma. A apresentadora concorda que a reforma não ficou simples: o IVA dual se divide em dois tributos (IBS e CBS) e ainda restam parte do IPI, fundos e o Imposto Seletivo.
+
+5. **Split payment em debate.** Pessoas da equipe econômica de Flávio, como Daniela Marques, têm questionado o split payment nas redes sociais.
+   - **Como funciona:** hoje, o vendedor recebe o tributo embutido no preço e só o recolhe depois, o que ajuda seu fluxo de caixa. Com o split payment, o tributo vai direto ao governo no momento do pagamento, e o fornecedor recebe apenas o valor líquido.
+   - **Para quem vende:** é desfavorável, porque afeta o fluxo de caixa.
+   - **Para quem compra:** pode ser positivo. A reforma adota a não cumulatividade plena, e o crédito de IBS e CBS depende da garantia de que o tributo da etapa anterior foi pago. O split payment é justamente um mecanismo que dá essa garantia ao adquirente.
+   - **Ponto em aberto:** se o split payment for retirado, como ficam os créditos? O adquirente ainda precisaria comprovar o pagamento na etapa anterior? Nem os planos de governo nem as propostas tratam disso.
+
+6. **A implementação ainda está incompleta.** Na data da gravação, ainda faltavam atos normativos, a alíquota da CBS necessária para 2027 e vários documentos fiscais eletrônicos. Isso reforça o argumento de que a implementação não está simples.
+
+### Detalhes que valem atenção
+
+- **1º de janeiro de 2027:** início da CBS e fim do PIS/COFINS para novos fatos geradores.
+- **Posse do eleito:** 5 de janeiro, segundo o vídeo.
+- **Quórum para mudar emenda constitucional:** dois turnos na Câmara e no Senado, com no mínimo 3/5 dos votos.
+- **Quórum para mudar lei complementar:** maioria absoluta dos membros de cada Casa.
+- **Base normativa atual:** uma emenda constitucional e duas leis complementares que instituem IBS e CBS.
+- **Tributos e estruturas citados:** IBS, CBS (IVA dual), Imposto Seletivo, parte remanescente do IPI e fundos.
+- **Mecanismos citados:** split payment, não cumulatividade plena, cashback para baixa renda, isenção da cesta básica.
+- **Pendências na data do vídeo:** alíquota da CBS ainda não publicada, atos normativos faltando e documentos fiscais eletrônicos ainda não implementados.
+- **Onde consultar os planos de governo:** site do TSE.
+- **Recomendação implícita:** seguir com a implementação da reforma nas empresas, já que nenhum dos cenários prevê revogação ou suspensão imediata.
+
+### Para quem é útil
+
+Contadores, donos de escritórios contábeis e empresários que querem saber se devem continuar se preparando para a reforma tributária diante da incerteza eleitoral. Também serve a quem quer entender o impacto do split payment no fluxo de caixa e no aproveitamento de créditos.
