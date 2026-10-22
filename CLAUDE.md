@@ -44,6 +44,7 @@ O dia do post é a data de publicação no YouTube (America/Sao_Paulo). Um víde
 ## Manutenção
 
 - **Download do YouTube falhou** (erros do `yt-dlp` no log): rode `brew upgrade yt-dlp` primeiro. O YouTube muda com frequência e o `yt-dlp` acompanha.
-- **`claude -p` falhou**: rode `claude -p "responda só: ok"` no terminal para ver se a sessão expirou ou o limite da assinatura acabou.
+- **`claude -p` falhou** (`Failed to authenticate: OAuth session expired`): a sessão do Claude Code expirou e o Mac mostra uma notificação pedindo login. Rode `claude` no terminal e digite `/login`; o vídeo é publicado na hora seguinte (ou rode `./run.sh`), reaproveitando a transcrição já feita. Para testar: `claude -p "responda só: ok"`.
+- **Sem internet ao acordar o Mac**: o `run.sh` espera até 3 min pela rede; se não voltar, registra no log e tenta na próxima hora, sem notificar.
 - **Push falhou**: `gh auth status` e `gh auth setup-git`.
 - **Execução travada**: o lock fica em `state/run.lock/`. Um lock de processo morto é removido sozinho.

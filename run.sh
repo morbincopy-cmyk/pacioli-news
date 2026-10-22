@@ -41,6 +41,17 @@ trap 'rm -rf "$LOCK"' EXIT
 
 cd "$ROOT"
 echo "[$(date '+%d/%m/%Y %H:%M:%S')] Início ($*)" >>"$LOG"
+
+# Quando o Mac acorda, o launchd dispara antes de a rede voltar. Espera até 3 min;
+# se continuar sem internet, sai sem notificar (a próxima hora tenta de novo).
+for _ in $(seq 1 18); do
+  /usr/bin/curl -s -o /dev/null --max-time 5 -I https://www.youtube.com && break
+  sleep 10
+done
+if ! /usr/bin/curl -s -o /dev/null --max-time 5 -I https://www.youtube.com; then
+  echo "[$(date +%H:%M:%S)] Sem internet; tento de novo na próxima hora." >>"$LOG"
+  exit 0
+fi
 if [ -t 1 ]; then
   "$PYTHON" "$ROOT/pipeline/main.py" "$@" 2>&1 | tee -a "$LOG"
   STATUS=${PIPESTATUS[0]}
@@ -50,6 +61,10 @@ else
 fi
 
 if [ "$STATUS" -ne 0 ]; then
-  notify "A execução das $(date +%H:%M) falhou. Veja logs/$(basename "$LOG")"
+  if grep -q "Failed to authenticate" "$LOG"; then
+    notify "O Claude Code saiu da conta. Abra o terminal, rode claude e digite /login."
+  else
+    notify "A execução das $(date +%H:%M) falhou. Veja logs/$(basename "$LOG")"
+  fi
 fi
 exit "$STATUS"

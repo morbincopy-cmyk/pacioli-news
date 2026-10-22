@@ -97,6 +97,8 @@ def summarize(transcript_path, title, chunk_chars=None):
         except Exception as e:
             last_error = e
             log(f"Resumo falhou na tentativa {attempt}: {e}")
+            if "authenticate" in str(e).lower():
+                break  # sessão expirada: tentar de novo agora não adianta
     raise RuntimeError(f"resumo falhou após {SM['attempts']} tentativas: {last_error}")
 
 

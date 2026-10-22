@@ -122,6 +122,7 @@ def transcribe(video_id, order=None):
             continue
         out = WORK_DIR / f"{video_id}.txt"
         out.write_text(text + "\n", encoding="utf-8")
+        (WORK_DIR / f"{video_id}.method").write_text(label, encoding="utf-8")
         log(f"Transcrição via {label}: {words} palavras -> {out.name}")
         return out, label
     raise RuntimeError("nenhum método de transcrição funcionou (" + "; ".join(errors) + ")")

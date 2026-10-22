@@ -44,9 +44,22 @@ def mark_failure(state, info, error):
     }
 
 
-def process(info, state, dry_run):
+def cached_transcript(video_id):
+    """Transcrição de uma tentativa anterior que falhou depois de transcrever."""
+    txt, meta = WORK_DIR / f"{video_id}.txt", WORK_DIR / f"{video_id}.method"
+    if txt.exists() and meta.exists() and txt.stat().st_size > 0:
+        return txt, meta.read_text(encoding="utf-8").strip()
+    return None
+
+
+def process(info, state, dry_run, reuse=True):
     log(f"Processando {info['id']}: {info['title']}")
-    transcript, method = transcribe(info["id"])
+    cached = cached_transcript(info["id"]) if reuse else None
+    if cached:
+        transcript, method = cached
+        log(f"Reaproveitando a transcrição da tentativa anterior ({method})")
+    else:
+        transcript, method = transcribe(info["id"])
     summary_md = summarize(transcript, info["title"])
     if dry_run:
         out = WORK_DIR / f"{info['id']}.summary.md"
@@ -55,6 +68,7 @@ def process(info, state, dry_run):
         return
     publish(state, [(info, summary_md, method)])
     transcript.unlink(missing_ok=True)
+    (WORK_DIR / f"{info['id']}.method").unlink(missing_ok=True)
 
 
 def main(argv):
@@ -75,7 +89,7 @@ def main(argv):
     failures = 0
     for info in to_process:
         try:
-            process(info, state, dry_run)
+            process(info, state, dry_run, reuse=not video)
         except Exception as e:
             failures += 1
             log(f"ERRO em {info['id']}: {e}")
