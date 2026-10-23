@@ -1,0 +1,53 @@
+## PASSEI NO EQT PERITO: E AGORA? O QUE FAZER DEPOIS DA APROVAÇÃO
+
+**Em uma frase:** A aprovação no EQT de perito contábil é só o começo. Para construir uma carreira sólida, é preciso cuidar dos cadastros, dominar o processo civil, as normas de perícia e as ferramentas de cálculo, e buscar ativamente as primeiras oportunidades.
+
+### Principais pontos
+
+1. **Atualizar o cadastro no CNPC.** Depois da divulgação e homologação do resultado, o aprovado passa a constar no Cadastro Nacional de Peritos Contábeis (CNPC), mantido pelo Conselho Federal de Contabilidade (CFC). Os dados no CRC precisam estar corretos. O minicurrículo preenchido na inscrição do exame fica vinculado ao cadastro e pode ser consultado por terceiros. Se estiver desatualizado ou incompleto, peça a alteração por e-mail ao CFC ou ao CRC. O CNPC funciona como uma vitrine de credibilidade institucional.
+
+2. **Cadastrar-se nos tribunais.** O juiz não vai adivinhar que o perito existe. É preciso se inscrever nos sistemas de cadastro de peritos e órgãos técnicos do Tribunal de Justiça do estado e da Justiça Federal. A documentação exigida varia, por isso vale consultar o fórum ou tribunal onde se pretende atuar.
+
+3. **Estruturar o perfil profissional.** Perícia depende de confiança. O currículo deve ser enxuto, direto e profissional, com destaque para especializações como finanças, tributário, trabalhista ou avaliação de empresas.
+
+4. **Dominar o processo civil (CPC).** Não é preciso ser advogado, mas é preciso entender a dinâmica do processo. Os pontos citados são:
+   - prazos processuais e como pedir prorrogação de forma fundamentada;
+   - intimação e aceite do encargo;
+   - elaboração de uma proposta de honorários justa e estratégica;
+   - relacionamento com assistentes técnicos;
+   - prestação de esclarecimentos sobre o laudo.
+
+   Desconhecer a linguagem e o ritmo processual pode levar a falhas formais que prejudicam o trabalho.
+
+5. **Conhecer as normas de perícia (NBCs).** São a base técnica do perito. O laudo é o "cartão de visita" diante do juiz e deve ser claro, objetivo e bem fundamentado. As normas também tratam da independência, ética, responsabilidade e requisitos do perito. Como o juiz é leigo em contabilidade, o perito atua como os "olhos técnicos" dele e precisa escrever de forma didática.
+
+6. **Dominar métodos e ferramentas de cálculo.** A contabilidade sozinha não resolve um cálculo de liquidação de sentença. São necessários:
+   - matemática financeira avançada;
+   - Excel avançado, com modelos organizados e auditáveis;
+   - conhecimento específico da área de atuação.
+
+7. **Buscar as primeiras nomeações ativamente.** Um erro comum é se cadastrar e ficar esperando. A recomendação é:
+   - visitar as varas (o vídeo cita as de família e empresariais);
+   - pedir uma conversa breve com o diretor de secretaria ou o magistrado;
+   - apresentar o currículo;
+   - colocar-se à disposição para perícias de justiça gratuita. Elas pagam honorários, ainda que baixos, e ajudam a construir histórico e confiança.
+
+8. **Atuar como assistente técnico e em perícias extrajudiciais.** São boas portas de entrada para se tornar conhecido entre advogados. A sugestão é procurar escritórios de advocacia, oferecer apoio na elaboração de quesitos e na análise prévia de processos, e emitir pareceres técnicos consistentes. Esse tipo de trabalho costuma pagar mais rápido e acelera o aprendizado prático.
+
+9. **Manter a educação profissional continuada.** Como perito inscrito no CNPC, o profissional passa a integrar o programa de educação continuada do CFC e precisa cumprir uma pontuação anual mínima. Segundo o vídeo, isso não é exigido no primeiro ano. A recomendação é encarar a exigência como diferencial competitivo, e não como obrigação.
+
+### Detalhes que valem atenção
+
+- **Cadastros:** CNPC (CFC) e sistemas de cadastro de peritos e órgãos técnicos do TJ estadual e da Justiça Federal.
+- **Documentos para o cadastro nos tribunais:** comprovante de regularidade no CRC, comprovante ou certidão de aprovação no CNPC, currículo atualizado e certidões negativas. Confirmar a lista com o tribunal local.
+- **Minicurrículo:** a alteração é solicitada por e-mail ao CFC ou ao CRC.
+- **CPC:** o vídeo cita os artigos 464 e 480, que tratam da prova pericial.
+- **Normas:** NBC TP 01, mencionada em relação ao laudo e ao parecer pericial contábil.
+- **Matemática financeira citada:** juros simples x compostos, sistemas de amortização, tabela Price, recálculo de contratos bancários, atualização monetária e expurgos inflacionários.
+- **Áreas de atuação citadas:** apuração de haveres, perícia tributária, recuperação judicial e perícia trabalhista, esta com uso de software próprio de cálculo.
+- **Educação continuada:** pontuação anual mínima em cursos, eventos e credenciamentos reconhecidos, sem exigência no primeiro ano.
+- **Conteúdo promocional:** o vídeo divulga uma campanha de Black Friday do Contabilidade Facilitada (acesso vitalício à Escola Contábil) e da Faculdade Brasileira de Contabilidade (duas pós-graduações pelo preço de uma, incluindo a de perícia contábil). Também menciona que a plataforma da pós oferece uma ferramenta com os documentos exigidos para cadastro em cada estado.
+
+### Para quem é útil
+
+Contadores recém-aprovados no EQT de perito contábil que querem saber os próximos passos práticos. Também serve a profissionais que estão considerando a carreira pericial e querem entender o que ela exige no dia a dia.
