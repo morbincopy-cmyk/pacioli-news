@@ -1,0 +1,54 @@
+## QUAIS DIVÍDAS DO MEI O GOVERNO VAI PERDOAR COM O PROSPERA MEI
+
+**Em uma frase:** A lei complementar que aumentou o limite do MEI também perdoa a parte federal (INSS e encargos) dos débitos vencidos até 13/10/2026, estejam ou não em dívida ativa ou parcelados. Como a operacionalização ainda não saiu, a decisão de parar de pagar parcelamentos deve ser avaliada caso a caso.
+
+### Principais pontos
+
+1. **Dívida ativa e débitos na Receita entram no perdão.** Havia a dúvida inicial de que só os débitos inscritos em dívida ativa seriam perdoados, mas o entendimento apresentado é que o perdão alcança os dois casos:
+   - débitos já com a Procuradoria-Geral da Fazenda Nacional (PGFN), visíveis no portal Regularize;
+   - débitos que ainda estão em aberto só na Receita Federal, no sistema do DAS do MEI.
+
+2. **Só a parte devida à União é perdoada.** O perdão abrange a parcela federal do DAS, ou seja, o INSS, que é a maior parte. O que cabe a estados e municípios (ICMS e ISS) não é perdoado. Ainda falta um procedimento operacional que explique como esses valores serão separados e cobrados.
+
+3. **Data de corte: débitos vencidos até 13/10/2026.**
+   - Entram as competências até agosto (competência 8).
+   - A competência de setembro (9) não entra, porque venceu em 20/10 e precisa ser paga normalmente.
+   - O apresentador ressalta que essa é a leitura da equipe sobre a lei complementar.
+
+4. **Vale para débitos negociados ou não.** Entram débitos em parcelamento, em transação, ajuizados, suspensos ou garantidos, desde que vencidos até 13/10/2026.
+
+5. **Situação dos parcelamentos.**
+   - Entra no perdão o saldo de parcelamentos ativos, rescindidos (quebrados por falta de pagamento) e ativos com parcelas em atraso.
+   - Conta a data de vencimento do débito original, não a da parcela.
+   - O que já foi pago não é devolvido nem compensado.
+   - Um parcelamento feito depois de 13/10 pode incluir competências não perdoadas. Exemplo: o DAS de setembro.
+
+6. **Orientação ao cliente sobre parar de pagar o parcelamento: "depende".** A postura adotada no escritório do apresentador é analisar cada caso:
+   - **Parcelamento com bom desconto** (ex.: 70%): a recomendação é não parar de pagar. O perdão pode não se concretizar, a operacionalização pode dar problema, e o ISS/ICMS teriam de ser renegociados.
+   - **Parcelamento comum, sem desconto, com débitos dentro da regra:** pela lei, o cliente pode parar de pagar. O profissional deve explicar que ainda não há procedimento prático definido e que a decisão é por conta e risco do cliente. O ideal é registrar a ciência do cliente sobre esses riscos.
+   - Se o cliente parar de pagar, a ideia é aguardar a regulamentação e, quando ela sair (o apresentador menciona janeiro como possibilidade), parcelar o que restar, se necessário.
+
+7. **Pontos a avaliar em cada caso:**
+   - o tipo de parcelamento (com ou sem desconto);
+   - se os débitos parcelados se enquadram no perdão;
+   - quantas parcelas ainda faltam;
+   - se o cliente precisa manter certidão positiva com efeito de negativa. Interromper o parcelamento pode fazer a situação voltar a "certidão positiva", até que o ISS/ICMS sejam renegociados.
+
+8. **Multas não são perdoadas.** Pelo entendimento do apresentador, a lei trata só dos valores devidos à União (INSS e encargos) e não menciona multas. Assim, multas por atraso na declaração anual do MEI, por exemplo, continuam devidas.
+
+### Detalhes que valem atenção
+
+- **Data de corte:** débitos com vencimento original até **13/10/2026**.
+- **Competência 9 (setembro/2026):** vencimento em **20/10**, fica fora do perdão e deve ser paga.
+- **Competências até 8 (agosto/2026):** entram no perdão.
+- **Abrangência:** apenas a parcela da União (INSS e encargos). ISS e ICMS ficam de fora e terão de ser cobrados e negociados com os respectivos entes.
+- **Situações incluídas:** dívida ativa (PGFN/Regularize), débitos só na Receita, parcelamentos ativos, rescindidos ou com atraso, transação, débitos ajuizados, suspensos ou garantidos.
+- **Valores já pagos:** não serão devolvidos nem compensados.
+- **Multas por atraso de declaração:** não são perdoadas, segundo o entendimento apresentado.
+- **Norma:** a lei complementar que aumentou o limite do MEI e trouxe o perdão das dívidas. O número da lei não é citado.
+- **Pendência:** ainda não existe procedimento operacional ou orientação técnica sobre como o perdão e a separação dos tributos vão funcionar na prática.
+- **Recomendação prática:** documentar que o cliente foi informado do que diz a lei e dos riscos da falta de regulamentação antes de ele decidir parar de pagar.
+
+### Para quem é útil
+
+Contadores e donos de escritórios contábeis com carteira de MEIs, que precisam orientar clientes sobre parcelamentos e débitos em aberto. Também serve para MEIs que querem saber quais dívidas podem ser perdoadas.
