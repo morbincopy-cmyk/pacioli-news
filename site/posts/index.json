@@ -3,13 +3,18 @@
     "date": "2026-10-30",
     "title": "Novidades do Dia 30/10/2026",
     "weekday": "sexta-feira",
-    "count": 1,
+    "count": 2,
     "excerpt": "A escolha entre Simples Nacional puro e híbrido depende do perfil do cliente e de quem compra dele, e não só do imposto. Por isso o contador deve simular caso a caso, e não decidir por rótulo de setor.",
     "videos": [
       {
         "id": "ttJQLrNngkw",
         "title": "COMO ESCOLHER ENTRE SIMPLES NACIONAL PURO E HÍBRIDO NA RETA FINAL DO PRAZO",
         "time": "14h00"
+      },
+      {
+        "id": "t7hj27whlBo",
+        "title": "O QUE MUDA NA EMISSÃO DE NFS-E NACIONAL NO SIMPLES A PARTIR DE 1º DE NOVEMBRO?",
+        "time": "16h00"
       }
     ]
   },
