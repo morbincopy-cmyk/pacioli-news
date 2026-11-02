@@ -1,0 +1,51 @@
+## CBS EM 11,3% PARA 2027: O QUE MUDA COM A ALÍQUOTA MAIS ALTA QUE O PREVISTO
+
+**Em uma frase:** O TCU propôs uma alíquota de CBS de 11,34% para 2027, acima do que muitos usaram nas simulações, e por isso empresas e contadores precisam refazer as projeções da reforma tributária com uma apuração completa, sem apenas trocar o percentual.
+
+### Principais pontos
+
+1. **A premissa das simulações mudou.** Muitas empresas já projetaram o impacto da reforma usando percentuais de CBS menores. Com a proposta do TCU de 11,34% para 2027, essas projeções precisam ser revistas, porque orientam decisões de preço, margem, contratos e fluxo de caixa.
+
+2. **A alíquota ainda não é definitiva.** O número é uma proposta. A fixação cabe ao Senado, e a União pode estabelecer outro percentual. Só na falta dessa atualização vale o que diz a legislação, com o percentual apresentado pelo TCU.
+
+3. **Comparação com o PIS/Cofins atual.** Hoje a alíquota geral de PIS/Cofins é de 9,25% no regime não cumulativo e de 3,65% no cumulativo. A distância para os 11,34% chama atenção, mas a diferença entre as alíquotas não significa automaticamente aumento de carga.
+
+4. **Para medir o impacto real, a apuração tem que ser completa.** Não basta aplicar o novo percentual sobre o faturamento. É preciso considerar:
+   - **Base de cálculo:** seguir as regras de composição da base dos novos tributos.
+   - **Créditos:** verificar quais aquisições realmente geram crédito e em que condições.
+   - **Perfil dos fornecedores:** de quem a empresa compra e como essas aquisições são tributadas. Duas empresas com o mesmo faturamento podem recolher valores diferentes por terem estruturas de compras e despesas distintas.
+   - **Tratamentos específicos da operação:** redução de alíquota, alíquota zero ou regimes específicos e especiais. Por causa deles, os 11,34% não servem como referência para todas as atividades.
+   - **Regras do ano simulado:** como a reforma é gradual, uma simulação de 2027 deve seguir as regras de 2027. Os impactos devem ser projetados ano a ano.
+
+5. **Revisão da gestão, além do cálculo.** O momento pede revisão de margens e preços, avaliação de ajustes contratuais, análise dos prazos de recebimento e pagamento e, possivelmente, da necessidade de capital de giro.
+
+6. **Lucro presumido é o mais exposto.** Essas empresas estão acostumadas a apurar 3,65% e, se a proposta for aceita, passam para 11,34%. Mesmo com crédito amplo, o salto é grande. Se a empresa ainda atingir o gatilho da Lei Complementar 224, que majora em 10% o percentual de presunção, a carga sobe mais. Prestadores de serviço nesse regime precisam avaliar quais despesas geram crédito.
+
+7. **Lucro real também é afetado.** Mesmo já pagando PIS/Cofins a 9,25%, essas empresas vão para 11,34%. Elas devem revisar aquisições e possibilidades de crédito, porque alguns segmentos e operações têm pouco crédito a aproveitar.
+
+8. **Comércio e indústria tendem a sentir menos.** Com mais possibilidades de crédito, essas empresas podem ter o impacto amenizado. Hoje o crédito de PIS/Cofins depende da essencialidade e relevância da aquisição. Na reforma, o leque de crédito se amplia. Ainda assim, o volume de créditos não necessariamente compensa a alíquota de 11,34%, por três motivos:
+   - o crédito depende da liquidação financeira na etapa anterior da cadeia;
+   - o crédito não é pleno;
+   - itens de uso pessoal ficam de fora.
+
+### Detalhes que valem atenção
+
+- **CBS proposta pelo TCU para 2027:** 11,34% (o título arredonda para 11,3%).
+- **Quem fixa a alíquota:** o Senado. A União pode definir outro percentual. Sem atualização, vale a legislação com o número do TCU.
+- **PIS/Cofins hoje:** 9,25% no regime não cumulativo e 3,65% no cumulativo.
+- **Lei Complementar 224:** citada pela majoração de 10% no percentual de presunção do lucro presumido quando a empresa atinge o gatilho previsto.
+- **Crédito na reforma:** mais amplo que o critério atual de essencialidade e relevância, mas condicionado à liquidação financeira na cadeia anterior e sem itens de uso pessoal.
+- **Cálculo por fora:** o vídeo cita a tributação calculada "por fora" como ponto a considerar nas simulações.
+- **Alíquotas usadas em simulações anteriores, citadas como exemplo:** 7%, 8%, 9,80%, 9,81% e 9,21% (esta atribuída à "Resolução 14").
+- **Recomendação prática:** refazer as simulações ano a ano, considerando regime tributário, cadeia de suprimentos, créditos e fluxo de caixa, e revisar preços, margens, contratos e capital de giro.
+
+### Para quem é útil
+
+Contadores e consultores tributários que fazem simulações da reforma para clientes, além de empresários e gestores financeiros, principalmente de empresas do lucro presumido e de prestadores de serviço, que podem ter o maior aumento de carga.
+
+---
+
+Observações sobre a transcrição:
+- O vídeo diz que as diferenças em relação ao PIS/Cofins são de 2,05% e 7,65%. Esses valores não batem com 11,34% (a conta dá 2,09 e 7,69 pontos), então deixei de fora.
+- Interpretei "físico-fins" como PIS/Cofins e "cooperação" como "operação".
+- Omiti o trecho promocional sobre cursos.
