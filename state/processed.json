@@ -427,15 +427,17 @@
       "channel": "Contabilidade Facilitada",
       "transcription": "mlx-whisper",
       "at": "2026-11-04T20:00:51-03:00"
+    },
+    "Yp3sqwv2XaY": {
+      "status": "published",
+      "title": "QUAIS DÍVIDAS DO MEI SERÃO PERDOADAS?",
+      "date": "2026-11-04",
+      "timestamp": 1793826027,
+      "url": "https://www.youtube.com/watch?v=Yp3sqwv2XaY",
+      "channel": "Contabilidade Facilitada",
+      "transcription": "mlx-whisper",
+      "at": "2026-11-04T20:01:24-03:00"
     }
   },
-  "pending": {
-    "Yp3sqwv2XaY": {
-      "reason": "falha no processamento",
-      "title": "QUAIS DÍVIDAS DO MEI SERÃO PERDOADAS?",
-      "failures": 1,
-      "error": "resumo falhou após 2 tentativas: claude -p falhou: Failed to authenticate: OAuth session expired and could not be refreshed",
-      "since": "2026-11-04T19:02:10-03:00"
-    }
-  }
+  "pending": {}
 }
