@@ -1,0 +1,41 @@
+## NFS-e: PASSO A PASSO PARA EMITIR NOTAS
+
+**Em uma frase:** O Portal Nacional da NFS-e passou a permitir que um usuário, com seu próprio login, represente outras empresas e emita notas em nome delas, sem precisar entrar com o certificado de cada cliente.
+
+### Principais pontos
+
+1. **Contexto da obrigatoriedade do Portal Nacional.** Desde janeiro de 2026, muitos municípios migraram para o padrão nacional da NFS-e. Segundo a apresentadora, a partir de 1º de novembro de 2026 toda empresa do Simples Nacional passa a ser obrigada a usar esse padrão e não pode mais usar o emissor próprio do município. Com isso, o portal virou ferramenta de uso diário.
+
+2. **Limitações do portal até agora.** O portal tem poucas funcionalidades: não permite copiar uma nota já emitida nem gerar relatórios. Para emitir uma nota, era preciso entrar com o certificado digital de cada empresa ou com um usuário criado para cada uma. Quem atende várias empresas tinha que sair do sistema, abrir guia anônima ou fechar o navegador a cada troca. Somadas às quedas e instabilidades frequentes do portal, essas trocas deixavam a rotina dos escritórios muito trabalhosa.
+
+3. **A nova funcionalidade: representação de outras empresas.** Agora é possível entrar com o certificado do próprio escritório de contabilidade e escolher, dentro do portal, qual empresa representar. Exemplo dado no vídeo: emitir a nota de uma clínica de saúde para um paciente e, em seguida, trocar a representação para uma empresa de manutenção de veículos, sem deslogar. A novidade foi divulgada em notícia no site do governo, com disponibilidade a partir de 1º de novembro, e a apresentadora confirmou que já está funcionando.
+
+4. **Três formas de representação previstas:**
+   - **Responsável legal da pessoa jurídica:** pode alternar entre as empresas das quais é responsável. Há integração com a base do CNPJ, então basta entrar com o certificado dele ou com o acesso gov.br.
+   - **Estabelecimentos da mesma empresa:** matriz e filiais podem ser acessadas pelo mesmo login. Antes, cada CNPJ precisava de certificado próprio ou de um usuário separado.
+   - **Terceiros com procuração eletrônica válida para NFS-e:** um escritório que já tem procuração eletrônica na Receita Federal para atender o cliente passa a poder emitir a NFS-e dele pelo portal.
+
+5. **Também vale para integração via API.** A representação não se limita ao emissor web. Ela também funciona nas APIs de emissão e distribuição, o que beneficia quem emite notas por sistema próprio integrado ao portal.
+
+6. **Procuração para quem não é o escritório contábil.** Também é possível dar procuração a uma pessoa física ou a um prestador como um BPO financeiro, específica para a NFS-e. Assim, ele representa várias empresas a partir do próprio acesso. A procuração é feita no portal da Receita Federal: em "minhas autorizações de acesso", cadastra-se uma nova autorização e seleciona-se o serviço de Nota Fiscal de Serviço Eletrônica, indicando quem poderá emitir em nome de qual CNPJ ou CPF.
+
+7. **Passo a passo para trocar de perfil no Portal Nacional:**
+   - Com a procuração já em ordem, fazer login com o certificado do escritório (ou do BPO).
+   - No canto superior direito aparece o nome de quem fez o login. Clicar na seta ao lado do perfil.
+   - Escolher a opção de procuração/representação e informar o CPF ou CNPJ a representar.
+   - O sistema exibe no topo da tela um aviso de que você está representando aquela empresa ou CPF. A partir daí, o emitente da nota passa a ser o contribuinte representado.
+   - O portal guarda os CNPJs representados recentemente, o que agiliza as trocas seguintes.
+
+### Detalhes que valem atenção
+
+- **Janeiro de 2026:** muitos municípios já haviam migrado para o padrão nacional da NFS-e.
+- **1º de novembro de 2026:** obrigatoriedade do padrão nacional para todas as empresas do Simples Nacional, sem uso de emissor municipal próprio (conforme dito no vídeo). É também a data de liberação da funcionalidade de representação.
+- **Tópico 11 do manual do emissor da NFS-e**, disponível no Portal Nacional: foi incluído para explicar o passo a passo da procuração e da representação.
+- **Onde fazer a procuração:** portal da Receita Federal, em "minhas autorizações de acesso", selecionando o serviço de NFS-e.
+- **Acesso do responsável legal:** certificado digital ou conta gov.br, com integração à base do CNPJ.
+- **Abrangência:** emissor web e APIs de emissão e distribuição.
+- **Limitações que continuam:** o portal ainda não permite copiar notas nem emitir relatórios, e segue instável.
+
+### Para quem é útil
+
+Contadores e escritórios de contabilidade que emitem NFS-e para vários clientes, BPOs financeiros e empresas com matriz e filiais. Também serve a responsáveis legais que administram mais de um CNPJ no Portal Nacional.

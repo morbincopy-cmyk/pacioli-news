@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-05",
+    "title": "Novidades do Dia 05/11/2026",
+    "weekday": "quinta-feira",
+    "count": 1,
+    "excerpt": "O Portal Nacional da NFS-e passou a permitir que um usuário, com seu próprio login, represente outras empresas e emita notas em nome delas, sem precisar entrar com o certificado de cada cliente.",
+    "videos": [
+      {
+        "id": "W4QnJ_oxio4",
+        "title": "NFS-e: PASSO A PASSO PARA EMITIR NOTAS",
+        "time": "14h15"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "title": "Novidades do Dia 04/11/2026",
     "weekday": "quarta-feira",
