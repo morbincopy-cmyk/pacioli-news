@@ -1,0 +1,94 @@
+## MP DO IMPOSTO SELETIVO PUBLICADA: O QUE MUDA NA REFORMA TRIBUTÁRIA
+
+**Em uma frase:** A MP nº 1399 definiu as alíquotas e as regras de cálculo do Imposto Seletivo (IS) para 2027, mas o cálculo varia muito conforme o produto, e a cobrança só valerá em fevereiro de 2027 se a MP for convertida em lei até o fim de 2026.
+
+### Principais pontos
+
+1. **O que é o Imposto Seletivo.** É um imposto federal sobre a produção, extração, comercialização ou importação de bens e serviços considerados prejudiciais à saúde ou ao meio ambiente. Sua finalidade é principalmente extrafiscal: além de arrecadar, busca desestimular o consumo. Está previsto no art. 153, VII, da Constituição e foi instituído pela Lei Complementar 214. A MP traz as alíquotas e as regras para a implementação.
+
+2. **Por que uma medida provisória.** Segundo a professora, a Constituição permite fixar as alíquotas do IS por lei ordinária. Por isso foi possível tratar dos percentuais por MP, desde que respeitado o que é reservado à lei complementar.
+
+3. **Como funciona a MP.** A MP tem força de lei desde a publicação, mas precisa ser convertida em lei pelo Congresso. Passa por uma comissão mista de deputados e senadores e depois pelos plenários da Câmara e do Senado. O texto pode ser aprovado como está, modificado ou rejeitado, e também pode perder a eficácia se o prazo vencer. Por isso é preciso acompanhar as mudanças durante a tramitação.
+
+4. **Produtos e atividades alcançados.** A MP trata de veículos, aeronaves, embarcações, cigarros, bebidas alcoólicas, bebidas açucaradas, bens minerais extraídos e concursos de prognósticos. O fato de uma categoria estar na lista não significa tratamento igual para todos os produtos dela: há classificações específicas, benefícios, alíquota zero e casos de não incidência. A recomendação é partir do cadastro de produtos e das descrições da legislação.
+
+5. **Bebidas: cuidado com listas resumidas.** As alíquotas variam conforme a classificação fiscal. Dizer que "o vinho paga 8%" é uma simplificação perigosa, porque a MP dá tratamento diferente a certos vinhos (como os de madeira e do Porto) e também distingue rum e aguardente.
+
+6. **Base de cálculo antes da alíquota.** Aplicar o percentual direto sobre o valor da nota fiscal não garante o resultado certo. Primeiro é preciso determinar a base correta e só depois aplicar a alíquota.
+
+7. **Cigarros: dois componentes.** O cálculo combina um percentual (66,7%) com um valor fixo por vintena. Para produtos com preço tabelado no varejo, a regra transitória usa como referência apenas uma fração do preço, e não o preço cheio. Cigarros sem preço tabelado seguem outra metodologia.
+
+8. **Veículos: o percentual inicial não é a alíquota final.** O cálculo parte de uma alíquota-base e recebe ajustes por propulsão, eficiência energética, potência, segurança e sustentabilidade. Depois se aplica um fator de conversão. A empresa precisa reunir as informações técnicas de cada modelo. A não incidência prevista para caminhões não se estende às picapes, que a MP exclui desse tratamento independentemente do preço.
+
+9. **Benefícios e regras transitórias.** Há alíquota zero para veículos destinados a pessoas com deficiência, pessoas com transtorno do espectro autista e taxistas, desde que cumpridas as condições e reconhecido o direito. Também há tratamento diferenciado para determinados veículos, aeronaves e embarcações sustentáveis, para bens minerais e para pequenos produtores de bebidas alcoólicas.
+
+10. **Importações têm fatores adicionais.** Em certas importações aplicam-se fatores de ajuste que se somam aos fatores de conversão. Repetir na importação o tratamento da operação interna pode gerar erro.
+
+11. **Por que existem os fatores de conversão.** Segundo comunicado da Casa Civil citado no vídeo, o desenho inicial busca preservar a tributação efetiva durante a transição, considerando as diferenças entre IS e IPI. Comparar só os percentuais distorce a análise, porque uma alíquota maior pode incidir sobre uma base diferente. E preservar a carga no conjunto não significa que todas as empresas terão o mesmo impacto.
+
+12. **Apuração assistida exige controle.** Confirmar ou ajustar a apuração apresentada ao contribuinte equivale a confissão de dívida e constituição do crédito tributário. Não se manifestar no prazo também tem consequência: o saldo é presumido correto e o crédito é constituído. A recomendação é definir responsáveis, prazos e controles internos.
+
+13. **Quando começa a cobrança.** A MP prevê efeitos a partir de 2 de fevereiro de 2027. Mas o IS está sujeito à anterioridade anual e à noventena, e não está entre as exceções da Constituição. Por isso, para produzir efeitos no exercício seguinte, a MP precisa ser convertida em lei dentro do ano em que foi editada. Se o Congresso alterar o texto, especialmente aumentando a tributação, será preciso reavaliar os efeitos sobre as anterioridades.
+
+### Detalhes que valem atenção
+
+**Norma e prazos de tramitação**
+- **MP nº 1399**, publicada em 4 de novembro de 2026, por volta das 22h.
+- **Prazo da MP:** 60 dias, prorrogáveis uma vez por igual período. A contagem fica suspensa no recesso, então não equivale a 120 dias corridos em qualquer situação.
+- **Base legal citada:** CF, art. 153, VII; LC 214; CF, art. 62, § 2º.
+
+**Bebidas (Anexo 4 da MP)**
+
+| Classificação | Alíquota |
+|---|---|
+| Bebidas açucaradas (NCM 2202.10.00) | 2,6% |
+| Cerveja de malte (posição 22.03) | 4,2% |
+| Determinadas bebidas das posições 22.04 e 22.06 (com exceções) | 8% |
+| Posição 22.05 | até 12% |
+| Outros enquadramentos | 16%, 20% e 24% |
+
+- **Exemplo simples:** base de R$ 1.000,00 × 2,6% = R$ 26,00, desde que a base esteja correta.
+
+**Cigarros e cigarrilhas**
+- **Componentes:** 66,7% mais R$ 3,50 por vintena (cada 20 unidades).
+- **Regra transitória para preço tabelado:** o valor de referência é 15% do preço de varejo.
+- **Exemplo:** vintena de R$ 10,00 → referência de R$ 1,50 → R$ 1,50 × 66,7% + R$ 3,50 ≈ R$ 4,50. Os 66,7% não incidem sobre os R$ 10,00 inteiros.
+
+**Veículos**
+- **Alíquota-base:** 6,3% para a posição 87.03 e 3,9% em determinados outros enquadramentos.
+- **Fator de conversão:** 1,21, aplicado depois dos ajustes.
+- **Exemplo hipotético** (não corresponde a nenhum modelo real): 6,3% − 2 p.p. de ajustes = 4,3% → 4,3% × 1,21 = 5,203%.
+
+**Bens minerais e pequenos produtores**
+- **Bens minerais extraídos:** alíquota zero até o fim de 2027 (art. 6º).
+- **Pequenos produtores de bebidas alcoólicas:** reduções de 40%, 20% ou 10%, conforme faixas e condições. Também é preciso considerar o estabelecimento e as partes relacionadas.
+- **Unidade de medida:** as faixas consideram litros de álcool, não litros de bebida. Por exemplo, 1.000 litros de bebida com 5% de teor alcoólico equivalem a 50 litros de álcool.
+
+**Importações (art. 8º)**
+- Os fatores se aplicam quando a base for o valor aduaneiro acrescido do Imposto de Importação.
+- **1,17** para veículos, aeronaves e embarcações; **1,45** para bebidas alcoólicas e açucaradas.
+- São cumulativos com os fatores de conversão. Exemplo: alíquota de 2,6% (calculada conforme o art. 3º) × 1,45 = 3,77%, aplicada depois sobre a base correta.
+
+**Extinção e abatimento de créditos**
+- A MP trata de abatimento em caso de cancelamento ou devolução, de split payment e de compensação. Cada mecanismo tem condições próprias.
+
+**Vigência**
+- **Efeitos previstos:** a partir de 2 de fevereiro de 2027 (art. 19).
+- **Condição:** a conversão em lei precisa ocorrer até **31 de dezembro de 2026**. Mesmo que a MP continue tramitando em 2027, pode haver limitação constitucional aos efeitos tributários naquele exercício.
+
+**Roteiro de calcular o IS**
+1. Localizar o NCM do produto na TIPI.
+2. Verificar na MP a forma de cálculo daquele item.
+3. Aplicar o fator de conversão e, se for importação, o fator de importação.
+
+**Checklist para contribuintes do IS**
+- Mapear as operações.
+- Conferir NCM e características técnicas dos produtos.
+- Validar os benefícios aplicáveis.
+- Simular operações internas e importações.
+- Revisar preços e contratos.
+- Preparar o sistema e controlar versões e datas, porque a parametrização terá de acompanhar o resultado do processo legislativo.
+
+### Para quem é útil
+
+Contadores e profissionais da área fiscal que atendem fabricantes, importadores e comerciantes de veículos, bebidas, cigarros, embarcações, aeronaves e bens minerais. Também serve para gestores dessas empresas que precisam se preparar para a parametrização e a apuração do IS a partir de 2027.
