@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-07",
+    "title": "Novidades do Dia 07/11/2026",
+    "weekday": "sábado",
+    "count": 1,
+    "excerpt": "O vídeo mostra, com exemplos numéricos, como calcular o Imposto de Renda Retido na Fonte sobre salários pelas novas regras, que trazem isenção até R$ 5.000, um redutor para a faixa intermediária e a tabela progressiva tradicional para valores mais altos.",
+    "videos": [
+      {
+        "id": "ESX6cAILGAE",
+        "title": "COMO CALCULAR O IRRF COM AS NOVAS REGRAS",
+        "time": "11h00"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "title": "Novidades do Dia 06/11/2026",
     "weekday": "sexta-feira",
