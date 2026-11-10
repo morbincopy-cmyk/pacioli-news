@@ -1,0 +1,80 @@
+## FIM DA ESCALA 6X1: COMO CALCULAR HORA EXTRA?
+
+**Em uma frase:** Com a redução da jornada máxima pela Emenda Constitucional 141 e a proibição de reduzir salário, a hora normal fica mais cara e, com ela, a hora extra. Por isso os departamentos pessoais precisam revisar jornadas, sistemas e cálculos antes de 16 de dezembro de 2026.
+
+### Principais pontos
+
+1. **A conta atual como referência.** Um funcionário com 44 horas semanais usa divisor 220. Com salário de R$ 2.200, a hora normal vale R$ 10 e a hora extra com adicional de 50% vale R$ 15. Dez horas extras no mês somam R$ 150, antes dos reflexos.
+
+2. **O que muda com a EC 141.** A emenda reduz o limite semanal de 44 para 42 horas a partir de 16/12/2026 e para 40 horas a partir de 16/12/2027. Ela também proíbe qualquer redução salarial, inclusive proporcional. Se o salário fica igual e a carga horária diminui, o valor da hora sobe.
+
+3. **Simulação com os novos divisores.**
+   - Com 42 horas, a leitura proporcional leva ao divisor 210: hora normal de cerca de R$ 10,48 e hora extra de cerca de R$ 15,71.
+   - Com 40 horas, o divisor é 200: hora normal de R$ 11 e hora extra de R$ 16,50.
+   - Com o mesmo salário, a hora extra sobe 10% entre o cenário atual e o de 40 horas.
+
+4. **O que é certo e o que ainda é interpretação.**
+   - A emenda não define qual divisor usar.
+   - O divisor 200 para 40 horas tem respaldo do TST.
+   - O divisor 210 para 42 horas é só uma leitura proporcional, sem definição específica.
+   - Há quem defenda divisores maiores (252 e 240). Nesse caso, a hora ficaria abaixo dos R$ 10 atuais, por isso a tese é questionada diante da proibição de redução salarial.
+   - Convenções coletivas com cláusula de divisor merecem atenção, porque o efeito da emenda sobre elas ainda não foi decidido.
+   - A recomendação é definir o divisor com o jurídico, por escrito, e acompanhar lei complementar, entendimentos e a cartilha do Ministério do Trabalho.
+
+5. **Impacto no custo.** Vinte horas extras por mês custam R$ 300 a R$ 15 e R$ 330 a R$ 16,50, ou seja, R$ 30 a mais por funcionário. Com 50 funcionários na mesma situação, são R$ 1.500 a mais por mês, sem contar reflexos.
+
+6. **O adicional não muda, a base sim.** A Constituição continua exigindo adicional mínimo de 50%. O que aumenta é o valor da hora sobre o qual ele incide. Se a convenção prevê 75% ou 100%, esse percentual passa a ser aplicado sobre a nova hora.
+
+7. **Trabalho em dia de repouso é outra conta.** Com dois repousos semanais, um sábado que antes era dia útil pode virar repouso. Trabalho em dia de repouso sem folga compensatória deve ser pago em dobro. Antes de lançar, é preciso conferir em que dia o trabalho ocorreu e se houve compensação válida.
+
+8. **"Já trabalhamos de segunda a sexta" não basta.** Dias trabalhados e carga horária são coisas diferentes.
+   - Quem faz 8h48 por dia de segunda a sexta para compensar o sábado cumpre 44 horas semanais, acima do novo limite de 42.
+   - O limite diário continua sendo de 8 horas.
+   - Distribuir as 42 horas em 5 dias, com 8h24 por dia, exige acordo ou convenção coletiva.
+   - Sem norma coletiva, o caminho seguro é adotar 8 horas por dia e 40 por semana já em dezembro de 2026.
+   - Se a empresa mantiver o horário antigo sem respaldo, o excedente gera cerca de 4 horas extras por semana por funcionário. Com 20 funcionários, são 80 horas extras semanais.
+
+9. **Banco de horas.** Continua possível, desde que respeite as regras legais e a norma coletiva, mas o ponto de partida mudou. Se o sistema continuar parametrizado em 44 horas, parte do excedente pode deixar de ser registrada, ou os saldos podem não bater com o trabalhado. Saldos e parâmetros devem ser revisados antes de 16/12.
+
+10. **DSR sobre horas extras habituais.** A fórmula é o total das horas extras dividido pelos dias úteis e multiplicado pelos repousos remunerados (domingos e feriados). Com os R$ 330 de horas extras, num mês de 30 dias com 4 domingos:
+    - **Escala de 6 dias:** 26 dias úteis e 4 repousos, reflexo de cerca de R$ 51.
+    - **Escala de 5 dias com 2 DSRs:** 22 dias úteis e 8 repousos, reflexo de cerca de R$ 120.
+
+    A Lei 605 ainda não foi ajustada para dois repousos, então é preciso acompanhar como isso ficará nos cálculos e nos descontos.
+
+11. **Folha de dezembro com dois limites.** O dia 16/12 cai numa quarta-feira, então a mesma competência, e até a mesma semana, terá dois limites de jornada. As horas extras antes e depois da data precisam ser separadas, com procedimento definido e conferência. Ainda se espera uma cartilha do MTE sobre isso. Erros de configuração se repetem em todos os funcionários e às vezes só aparecem muito depois, num questionamento ou numa auditoria.
+
+12. **Plano de ação para agora (novembro).**
+    - Mapear quem faz 44 horas, quem já faz menos, quem compensa sábado e quem tem escala especial.
+    - Verificar o que a convenção coletiva prevê e procurar o sindicato.
+    - Envolver os gestores, que organizam escalas e autorizam horas extras. Se a liderança mantiver o horário antigo, o sistema de folha não resolve sozinho.
+    - Antes de mudar qualquer fórmula, confirmar qual jornada se aplica a cada funcionário e qual critério tem respaldo.
+
+### Detalhes que valem atenção
+
+- **Norma:** Emenda Constitucional 141, publicada em 16 de outubro.
+- **Jornada máxima semanal:**
+
+  | Período | Limite | Divisor |
+  |---|---|---|
+  | Hoje | 44 h | 220 |
+  | A partir de 16/12/2026 | 42 h | 210 (leitura proporcional, sem definição oficial) |
+  | A partir de 16/12/2027 | 40 h | 200 (Súmula 431 do TST) |
+
+- **Limite diário:** continua em 8 horas. A jornada de 8h24 em 5 dias (42 h) depende de acordo ou convenção coletiva.
+- **Salário:** a emenda proíbe redução, inclusive proporcional.
+- **Divisores alternativos defendidos por alguns:** 252 e 240. São questionados por reduzirem o valor da hora.
+- **Adicional de hora extra:** mínimo constitucional de 50% mantido. Percentuais maiores previstos em convenção (75%, 100%) incidem sobre a nova hora.
+- **Trabalho em dia de repouso sem folga compensatória:** pago em dobro.
+- **DSR sobre horas extras habituais:** (total de horas extras ÷ dias úteis) × repousos remunerados.
+- **Lei 605:** ainda não adaptada aos dois repousos semanais.
+- **Pendências:** lei complementar, entendimentos sobre o divisor e cartilha do Ministério do Trabalho.
+- **Recomendações práticas:**
+  - Definir o divisor com o jurídico, por escrito.
+  - Revisar parâmetros do sistema e saldos de banco de horas antes de 16/12.
+  - Separar as horas extras antes e depois de 16/12 na folha de dezembro.
+  - Mapear jornadas e envolver sindicato e gestores.
+
+### Para quem é útil
+
+Para profissionais de departamento pessoal, contadores e donos de escritórios contábeis que processam folha de pagamento, e para empresários que precisam entender o impacto da nova jornada no custo com horas extras já a partir de dezembro de 2026.
