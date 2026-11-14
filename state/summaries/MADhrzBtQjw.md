@@ -1,0 +1,51 @@
+## PCASP: O QUE É O PLANO DE CONTAS APLICADO AO SETOR PÚBLICO E COMO FUNCIONA
+
+**Em uma frase:** O PCASP é um plano de contas padronizado para todos os entes federativos, organizado em oito classes e três naturezas de informação (patrimonial, orçamentária e de controle). O vídeo usa essa estrutura para explicar o registro contábil da fixação da despesa orçamentária.
+
+### Principais pontos
+
+1. **Por que o plano de contas público é padronizado.** Na contabilidade privada, cada empresa monta o próprio plano de contas conforme suas operações. No setor público é preciso fazer a consolidação nacional das contas, e isso só funciona se todos os entes (União, estados e municípios) usarem as mesmas contas para transações da mesma natureza. Por isso o PCASP é único para todos.
+
+2. **Três naturezas de informação, oito classes.** A contabilidade privada registra apenas impactos no patrimônio. A pública registra também o orçamento e certos atos de gestão. Daí a divisão:
+   - **Patrimonial (classes 1 a 4):** registra fatos financeiros e não financeiros ligados à composição do patrimônio público (ativo, passivo e patrimônio líquido) e às variações que o afetam, sejam qualitativas ou quantitativas. As quantitativas são as que alteram o patrimônio líquido.
+   - **Orçamentária (classes 5 e 6):** registra os atos e fatos do planejamento orçamentário e da sua execução.
+   - **Controle (classes 7 e 8):** registra atos de gestão que não afetam o patrimônio de imediato, mas podem afetá-lo no futuro. Também abriga registros com função apenas de controle, como o da disponibilidade por destinação de recursos.
+
+3. **Regra de integridade dos lançamentos.** Débito e crédito de um mesmo lançamento só podem envolver classes da mesma natureza de informação. É possível debitar o ativo (classe 1) contra passivo/PL (classe 2) ou contra VPA (classe 4). Não é possível debitar a classe 1 e creditar a classe 6, porque são naturezas diferentes. Na prática:
+   - lançamentos patrimoniais circulam entre as classes 1, 2, 3 e 4;
+   - lançamentos orçamentários, entre as classes 5 e 6;
+   - lançamentos de controle, entre as classes 7 e 8.
+
+4. **Um fato pode gerar vários lançamentos.** Uma mesma transação pode afetar ao mesmo tempo as naturezas patrimonial, orçamentária e de controle. Nesse caso, ela gera um lançamento separado em cada natureza, e cada um respeita a regra acima.
+
+5. **Foco da aula.** Por ser uma aula para iniciantes, o professor anuncia que vai trabalhar com as classes 1, 2 e 3 (ativos, passivos e VPD) e com as classes 5 e 6 (fixação e execução da despesa orçamentária). O objetivo é chegar às fases de empenho, liquidação e pagamento. O trecho transcrito, porém, só chega até a fixação.
+
+6. **Fixação da despesa orçamentária.** Cada ente tem sua própria Lei Orçamentária Anual (LOA). Antes de gastar, precisa de autorização orçamentária, e essa autorização vem da LOA. A fixação é justamente essa autorização: a LOA estabelece as dotações orçamentárias, ou seja, o valor autorizado para cada despesa. A fixação faz parte do planejamento da despesa, mas **não é um dos três estágios da execução**. A execução só começa depois dela.
+
+7. **Exemplo prático: computadores para uma escola municipal.** A LOA de um município fixa R$ 500 mil numa dotação para aquisição de equipamentos. Como se trata de orçamento, o registro é feito só na natureza orçamentária:
+   - **Débito:** Dotação Inicial (classe 5, planejamento), R$ 500 mil;
+   - **Crédito:** Crédito Disponível (classe 6, execução), R$ 500 mil.
+
+   A partir do crédito disponível, a execução do orçamento continua sendo registrada nas contas da classe 6.
+
+8. **Fixação não tem impacto patrimonial.** Nesse momento não há saída de dinheiro nem reconhecimento de VPD ou de passivo. O ente não pagou nada, não assumiu compromisso de pagamento e não recebeu nenhum bem. Por isso o lançamento de fixação é sempre o mesmo e fica restrito à natureza orçamentária.
+
+### Detalhes que valem atenção
+
+- **Classes do PCASP:**
+  - 1: Ativo
+  - 2: Passivo e Patrimônio Líquido
+  - 3: Variações Patrimoniais Diminutivas (VPD), que são as despesas no enfoque patrimonial
+  - 4: Variações Patrimoniais Aumentativas (VPA), que são as receitas no enfoque patrimonial
+  - 5: Controles da aprovação do planejamento e orçamento
+  - 6: Controles da execução do planejamento e do orçamento
+  - 7: Controles devedores
+  - 8: Controles credores
+- **Regra de ouro:** nunca misturar classes de naturezas diferentes no mesmo lançamento.
+- **Dotação orçamentária** é o valor que o ente está autorizado a executar em cada despesa, conforme a LOA.
+- **Lançamento padrão da fixação:** D – Dotação Inicial / C – Crédito Disponível.
+- A fixação é etapa de planejamento e não conta como estágio da execução da despesa. Os estágios da execução (empenho, liquidação e pagamento) foram anunciados, mas não aparecem neste trecho.
+
+### Para quem é útil
+
+Para estudantes e contadores que estão começando na contabilidade aplicada ao setor público, inclusive quem vem da contabilidade privada. Também ajuda quem se prepara para concursos e precisa entender a lógica do PCASP antes de estudar os lançamentos de empenho, liquidação e pagamento.

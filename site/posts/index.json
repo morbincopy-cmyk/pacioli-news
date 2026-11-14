@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-14",
+    "title": "Novidades do Dia 14/11/2026",
+    "weekday": "sábado",
+    "count": 1,
+    "excerpt": "O PCASP é um plano de contas padronizado para todos os entes federativos, organizado em oito classes e três naturezas de informação (patrimonial, orçamentária e de controle). O vídeo usa essa estrutura para explicar o registro contábil da fixação da despesa orçamentária.",
+    "videos": [
+      {
+        "id": "MADhrzBtQjw",
+        "title": "PCASP: O QUE É O PLANO DE CONTAS APLICADO AO SETOR PÚBLICO E COMO FUNCIONA",
+        "time": "11h00"
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "title": "Novidades do Dia 13/11/2026",
     "weekday": "sexta-feira",
