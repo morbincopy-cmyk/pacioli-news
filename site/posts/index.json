@@ -3,13 +3,18 @@
     "date": "2026-11-16",
     "title": "Novidades do Dia 16/11/2026",
     "weekday": "segunda-feira",
-    "count": 1,
+    "count": 2,
     "excerpt": "A resolução mostra como descobrir a qual parcela de um empréstimo no Sistema de Amortização Constante (SAC) corresponde um pagamento informado, invertendo o raciocínio tradicional: em vez de calcular a parcela, parte-se dela para chegar à sua posição no cronograma.",
     "videos": [
       {
         "id": "SaMhG3JTKbs",
         "title": "QUESTÃO 3 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
         "time": "13h00"
+      },
+      {
+        "id": "SDmure_ZUnA",
+        "title": "O QUE MUDOU NOS PRAZOS DAS NOTAS FISCAIS E DA DERE NA REFORMA TRIBUTÁRIA?",
+        "time": "14h15"
       }
     ]
   },
