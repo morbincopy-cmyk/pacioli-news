@@ -3,7 +3,7 @@
     "date": "2026-11-16",
     "title": "Novidades do Dia 16/11/2026",
     "weekday": "segunda-feira",
-    "count": 4,
+    "count": 5,
     "excerpt": "A resolução mostra como descobrir a qual parcela de um empréstimo no Sistema de Amortização Constante (SAC) corresponde um pagamento informado, invertendo o raciocínio tradicional: em vez de calcular a parcela, parte-se dela para chegar à sua posição no cronograma.",
     "videos": [
       {
@@ -25,6 +25,11 @@
         "id": "Vrt8lyjMeCY",
         "title": "QUESTÃO 5 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
         "time": "16h00"
+      },
+      {
+        "id": "52i6X3HwvP0",
+        "title": "O QUE É CONCILIAÇÃO CONTÁBIL E COMO FUNCIONA NA ROTINA DO ESCRITÓRIO",
+        "time": "18h00"
       }
     ]
   },
