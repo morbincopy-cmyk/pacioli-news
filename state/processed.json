@@ -671,6 +671,37 @@
       "channel": "Contabilidade Facilitada",
       "transcription": "mlx-whisper",
       "at": "2026-11-16T19:03:13-03:00"
+    },
+    "dsj2egLUL_g": {
+      "status": "excluded",
+      "reason": "Short (duração 147s)",
+      "title": "QUESTÃO 7 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
+      "date": "2026-11-17",
+      "at": "2026-11-17T10:00:06-03:00"
+    },
+    "Irc8gqb0q34": {
+      "status": "excluded",
+      "reason": "Short (duração 124s)",
+      "title": "QUESTÃO 6 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
+      "date": "2026-11-17",
+      "at": "2026-11-17T10:00:06-03:00"
+    },
+    "xYKgB43RPbs": {
+      "status": "excluded",
+      "reason": "Short (duração 170s)",
+      "title": "QUESTÃO 8 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
+      "date": "2026-11-17",
+      "at": "2026-11-17T11:00:07-03:00"
+    },
+    "GfEHjmJO0Lk": {
+      "status": "published",
+      "title": "QUESTÃO 9 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
+      "date": "2026-11-17",
+      "timestamp": 1794924022,
+      "url": "https://www.youtube.com/watch?v=GfEHjmJO0Lk",
+      "channel": "Contabilidade Facilitada",
+      "transcription": "mlx-whisper",
+      "at": "2026-11-17T12:01:57-03:00"
     }
   },
   "pending": {}
