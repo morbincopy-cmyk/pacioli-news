@@ -16,17 +16,25 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
+# Upload e deploy em jobs separados: no mesmo job, o deploy-pages às vezes consulta
+# o artefato antes de a API do GitHub registrá-lo e falha com
+# 'No artifacts named "github-pages"' (actions/deploy-pages#451).
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v4
