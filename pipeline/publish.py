@@ -8,6 +8,7 @@ Uso isolado:
     python3 pipeline/publish.py <video_id> [--no-git]   # publica o resumo de work/<id>.summary.md
     python3 pipeline/publish.py --rebuild [--no-git]    # reconstrói o site a partir de state/summaries
 """
+import copy
 import html
 import re
 import sys
@@ -117,15 +118,25 @@ def commit_and_push(changed_dates=None, msg=None):
 
 
 def publish(state, items, use_git=True):
-    """items: lista de (info, resumo_md, método). Atualiza estado, posts, índice e git."""
+    """items: lista de (info, resumo_md, método). Atualiza estado, posts, índice e git.
+
+    Trabalha numa cópia do estado e só a aplica depois que posts e índice foram
+    reconstruídos: se algo falhar, nenhum vídeo fica marcado como publicado pela metade.
+    """
+    for info, _, _ in items:
+        if not info.get("timestamp") or not info.get("date"):
+            raise ValueError(f"{info['id']} sem data de publicação nos metadados do YouTube")
+    new_state = copy.deepcopy(state)
     changed = {}
     for info, summary_md, method in items:
-        record(state, info, summary_md, method)
+        record(new_state, info, summary_md, method)
         changed[info["date"]] = changed.get(info["date"], 0) + 1
     for date in changed:
-        n = len(build_day(date, state))
+        n = len(build_day(date, new_state))
         log(f"Post {day_title(date)}: {n} vídeo(s)")
-    build_index(state)
+    build_index(new_state)
+    state.clear()
+    state.update(new_state)
     save_state(state)
     if use_git:
         commit_and_push(changed)

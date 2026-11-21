@@ -76,6 +76,11 @@ def classify(entry, meta, pending, current):
     if duration is not None and duration <= DET["shorts_max_seconds"]:
         return EXCLUDE, f"Short (duração {duration}s)"
 
+    # Às vezes o YouTube devolve metadados incompletos (sem data, título traduzido).
+    # Sem a data não dá para saber o dia do post: espera e lê de novo na próxima hora.
+    if not (meta.get("timestamp") or meta.get("release_timestamp")):
+        return WAIT, "metadados sem data de publicação"
+
     # A transcrição começa pelo Whisper; a legenda é só reserva, então não há o que esperar.
     return ACCEPT, "vídeo normal" + ("" if has_pt_captions(meta) else " (sem legenda de reserva)")
 
