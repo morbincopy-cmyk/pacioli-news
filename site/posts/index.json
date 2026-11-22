@@ -3,7 +3,7 @@
     "date": "2026-11-22",
     "title": "Novidades do Dia 22/11/2026",
     "weekday": "domingo",
-    "count": 3,
+    "count": 4,
     "excerpt": "A questão pedia o valor do ativo circulante a partir de uma lista de contas, e o ponto decisivo era distinguir *adiantamento a fornecedor* (direito, entra no ativo) de *adiantamento de cliente* (obrigação, fica de fora).",
     "videos": [
       {
@@ -20,6 +20,11 @@
         "id": "b986BB4WREM",
         "title": "QUESTÃO 33 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
         "time": "10h00"
+      },
+      {
+        "id": "tibDHZT_kWY",
+        "title": "QUESTÃO 34 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
+        "time": "11h00"
       }
     ]
   },
