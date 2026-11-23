@@ -1053,6 +1053,23 @@
       "channel": "Contabilidade Facilitada",
       "transcription": "mlx-whisper",
       "at": "2026-11-23T11:00:46-03:00"
+    },
+    "Tpi0H2AZCrk": {
+      "status": "excluded",
+      "reason": "Short (duração 120s)",
+      "title": "QUESTÃO 39 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
+      "date": "2026-11-23",
+      "at": "2026-11-23T12:00:19-03:00"
+    },
+    "nIB6Zj7b3qU": {
+      "status": "published",
+      "title": "QUESTÃO 38 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
+      "date": "2026-11-23",
+      "timestamp": 1795438824,
+      "url": "https://www.youtube.com/watch?v=nIB6Zj7b3qU",
+      "channel": "Contabilidade Facilitada",
+      "transcription": "mlx-whisper",
+      "at": "2026-11-23T12:01:55-03:00"
     }
   },
   "pending": {}
