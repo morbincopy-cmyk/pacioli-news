@@ -1204,6 +1204,23 @@
       "channel": "Contabilidade Facilitada",
       "transcription": "mlx-whisper",
       "at": "2026-11-25T12:01:50-03:00"
+    },
+    "hjlDsAV2blc": {
+      "status": "excluded",
+      "reason": "Short (duração 174s)",
+      "title": "QUESTÃO 50 COMENTADA - EXAME DE SUFICIÊNCIA 2026.2 | CONFIRA A RESOLUÇÃO",
+      "date": "2026-11-25",
+      "at": "2026-11-25T13:00:05-03:00"
+    },
+    "iCb8RwhkwlA": {
+      "status": "published",
+      "title": "ESCALA 5X2: QUANDO COMEÇA A VALER A JORNADA DE 42 HORAS?",
+      "date": "2026-11-25",
+      "timestamp": 1795626005,
+      "url": "https://www.youtube.com/watch?v=iCb8RwhkwlA",
+      "channel": "Contabilidade Facilitada",
+      "transcription": "legenda automática do YouTube",
+      "at": "2026-11-25T19:45:16-03:00"
     }
   },
   "pending": {}
