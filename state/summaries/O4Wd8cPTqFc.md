@@ -1,0 +1,68 @@
+## TEORIA DA CONTABILIDADE NO EXAME DE SUFICIÊNCIA 2026.3: O QUE ESTUDAR PARA SER APROVADO
+
+**Em uma frase:** A professora Larissa revisa os três temas do CPC 00 que a FGV mais cobra no Exame de Suficiência: o objetivo dos relatórios financeiros, os elementos das demonstrações contábeis e as características qualitativas da informação.
+
+### Principais pontos
+
+1. **Peso do CPC 00 na prova**
+   A Estrutura Conceitual (CPC 00) rende no mínimo 4 questões no exame. A FGV segue um padrão de cobrança bem previsível e repete sempre os mesmos assuntos favoritos. Por isso, revisar esses tópicos é uma forma eficiente de garantir pontos.
+
+2. **Objetivo dos relatórios financeiros para fins gerais**
+   - A finalidade é fornecer **informação útil para a tomada de decisão**.
+   - Essa decisão é a dos **usuários primários (ou principais)**: **investidores e credores**. Entre os credores estão os que emprestam dinheiro, como bancos, e outros tipos, como o fornecedor que vende a prazo.
+   - Contam como usuários primários tanto os **existentes** quanto os **potenciais**, ou seja, quem já investe ou empresta e quem ainda pode vir a fazê-lo.
+   - Eles são primários porque **dependem** das demonstrações contábeis como principal fonte de informação para decidir se investem ou se fornecem recursos à entidade.
+
+3. **A administração não é usuário primário**
+   Ponto frequente de pegadinha. A administração já está dentro da entidade e tem acesso às informações internas quando e como quiser, inclusive por relatórios gerenciais. Ela pode usar as demonstrações contábeis, mas não depende delas.
+
+4. **Elementos do Balanço Patrimonial: representam a posição financeira**
+   - **Ativo:** recurso econômico **presente**, **controlado** pela entidade e derivado de **evento passado**. Atenção: basta ter o **controle**. A entidade não precisa ser a proprietária.
+   - **Passivo:** **obrigação presente**, derivada de **evento passado**.
+   - As ideias de "presente" e "evento passado" aparecem nas duas definições.
+   - **Patrimônio Líquido:** participação residual nos ativos depois de deduzidos os passivos (Ativo − Passivo).
+   - Macete: Balanço → **P** de **posição**.
+
+5. **Elementos da DRE: representam o desempenho financeiro**
+   - **Receita:** aquilo que aumenta o PL. Mais receita gera mais lucro, e mais lucro aumenta o PL.
+   - **Despesa:** aquilo que diminui o PL. Despesas maiores que receitas geram prejuízo, que reduz o PL.
+   - Macete: DRE → **D** de **desempenho**.
+
+6. **Exceção das transações com sócios**
+   Outro ponto que a banca gosta de cobrar. Movimentações com os detentores de direitos sobre o patrimônio não entram no conceito de receita nem de despesa, mesmo alterando o PL:
+   - **Distribuição** aos sócios, como dividendos ou retirada de dinheiro, diminui o PL, mas **não é despesa** e não vai para a DRE.
+   - **Contribuição** dos sócios, como a integralização de capital, aumenta o PL, mas **não é receita** e não vai para a DRE.
+
+7. **Características qualitativas da informação contábil**
+   São os atributos que tornam a informação útil e se dividem em dois grupos:
+   - **Fundamentais**, sem as quais a informação não é útil: **relevância** e **representação fidedigna**.
+   - **De melhoria**, que deixam a informação melhor, mas cuja ausência não a torna inútil: **comparabilidade**, **compreensibilidade**, **tempestividade** e **verificabilidade** (também chamada de capacidade de verificação). Quando não é possível atender todas, busca-se um equilíbrio, e uma delas pode predominar.
+   - A professora cita um macete, atribuído ao professor Gabriel, que junta as sílabas iniciais das seis características.
+
+8. **Palavras-chave de cada característica**
+   A ideia é reconhecer a característica pela palavra-chave, sem decorar a definição inteira.
+   - **Comparabilidade:** "semelhanças e diferenças". É a **única característica que se refere a mais de um item**, como demonstrações de anos diferentes ou de empresas diferentes. Segundo a professora, é a característica de melhoria preferida da FGV.
+   - **Compreensibilidade:** informação **clara e concisa**. Diz respeito à forma de divulgação. Deve ser entendida por usuários com conhecimento razoável que analisam com diligência, e não necessariamente por qualquer leigo. Às vezes pode ser preciso recorrer a um consultor.
+   - **Tempestividade:** informação disponível **a tempo**. Quanto mais antiga, menos útil ela tende a ser.
+   - **Verificabilidade:** permite **confirmar se a representação é fidedigna**. A palavra-chave é "**dois observadores** chegam a um consenso". A professora compara a uma "autenticação de dois fatores".
+   - **Relevância:** informação que **faz diferença na decisão**. Precisa ter **valor preditivo**, que ajuda a projetar o futuro, **valor confirmatório**, que serve de feedback sobre o passado, ou ambos.
+   - **Representação fidedigna:** informação que retrata a realidade. Costuma aparecer em questões com uma "historinha". Tem três palavras-chave: **completa**, **neutra** (imparcial, sem tendência para o lado bom ou ruim) e **isenta de erros materiais**.
+
+### Detalhes que valem atenção
+
+- **Norma:** CPC 00 (Estrutura Conceitual).
+- **Banca:** FGV, com padrão de cobrança repetitivo.
+- **Quantidade de questões:** no mínimo 4 questões de CPC 00 por exame.
+- **Exame de referência:** Exame de Suficiência 2026.3.
+- **Usuários primários:** investidores e credores, existentes e potenciais. A administração **não** é usuário primário.
+- **Ativo:** o que importa é o controle, não a propriedade.
+- **Associações para memorizar:** Balanço = posição; DRE = desempenho.
+- **Transações com sócios:** integralização de capital não é receita, e distribuição de dividendos não é despesa.
+- **Características fundamentais (2):** relevância e representação fidedigna.
+- **Características de melhoria (4):** comparabilidade, compreensibilidade, tempestividade e verificabilidade.
+- **Trinca da representação fidedigna:** completa, neutra e isenta de erros materiais.
+- **Valores que tornam a informação relevante:** preditivo e/ou confirmatório.
+
+### Para quem é útil
+
+Para estudantes e bacharéis em Ciências Contábeis que vão prestar o Exame de Suficiência do CFC, principalmente quem quer uma revisão rápida e direcionada de Teoria da Contabilidade no padrão FGV.
