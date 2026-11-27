@@ -3,13 +3,18 @@
     "date": "2026-11-27",
     "title": "Novidades do Dia 27/11/2026",
     "weekday": "sexta-feira",
-    "count": 1,
+    "count": 2,
     "excerpt": "Revisão rápida do balanço patrimonial e do patrimônio líquido para o Exame de Suficiência do CFC. O vídeo explica a estrutura do balanço como origens e aplicações de recursos, a equação fundamental da contabilidade e um macete para memorizar as contas do PL.",
     "videos": [
       {
         "id": "IKy3_5ogrmI",
         "title": "BALANÇO PATRIMONIAL NO EXAME DE SUFICIÊNCIA 2026.3: O QUE ESTUDAR PARA SER APROVADO",
         "time": "11h00"
+      },
+      {
+        "id": "tMwjiesymY0",
+        "title": "O QUE MUDOU PARA O MEI COM AS RESOLUÇÕES CGSN 196 E 198?",
+        "time": "15h00"
       }
     ]
   },
